@@ -1,0 +1,5 @@
+build:
+	gcc -std=c11 \
+	src/main.c \
+	src/guess.c \
+	-o inditas.exe
